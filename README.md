@@ -1,2 +1,2 @@
-# gizemugur.github-io
+# gizemugur.github.io
 The website of me 
